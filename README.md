@@ -1,5 +1,7 @@
 # VLAdoggo
 
+**Goal:** You give simple voice commands to a Unitree Go2 robot (i.e. "Go sit near the red box"). And the dog will go do it. Inspired by recent advancements in Vision Language Action models.  
+
 ## Current Plan:
 
 1. A microphone captures the user’s voice command.
